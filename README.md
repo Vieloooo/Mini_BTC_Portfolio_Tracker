@@ -9,10 +9,10 @@ Goal:
 Usage 
 - put your address in a json format list
 - set you api keys
-- run p1.py
+- run p1.py, this will return `Total btc of all UTXOs, current btc price, the USD value of your btc`. 
 
 
 Todo: 
-- [ ] add blockchain rpc to bypass the limitation of retriving the BTC/USD price 
+- [ ] add blockchain rpc to bypass the limitation of retriving the BTC/USD price, lke WBTC/usdc price oracle. 
 - [ ] history chart on Terminal 
-- [ ] Documents 
+- [ ] Doc
